@@ -4,7 +4,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{C7B3E6AC-519D-4939-998B-39276AE2515C}</ProjectGuid>
+    <ProjectGuid>C7B3E6AC-519D-4939-998B-39276AE2515C</ProjectGuid>
     <OutputType>WinExe</OutputType>
     <RootNamespace>Bdsh.Sync</RootNamespace>
     <AssemblyName>Bdsh.Sync</AssemblyName>
